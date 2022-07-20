@@ -33,4 +33,4 @@ make
 
 ### Parameters
 
-![Parameters Setting](C:\Users\m\Desktop\fairness\Table1.png)
+<img src="Table1.png" width="80%" height="80%">
